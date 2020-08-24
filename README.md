@@ -4,10 +4,10 @@
 AJAX, IIFEs, ES6, JSX, jQuery, JSON
 
 ## HTML5  
-Forms, Canvas, TheDOM 
+Forms, Canvas, DOM 
 
 ## CSS 
-CSS Object Model is my favorite, but familiar with Spring Boot, SASS
+CSS Object Model, familiar with Spring Boot, SASS
 
 ## Node
 npm/nodemon/babel
