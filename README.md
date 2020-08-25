@@ -1,19 +1,3 @@
-### concinnate
-# Web Dev - 
-## JavaScript 
-AJAX, IIFEs, ES6, JSX, jQuery, JSON
-
-## HTML5  
-Forms, Canvas, DOM 
-
-## CSS 
-CSS Object Model, familiar with Spring Boot, SASS
-
-## Node
-npm/nodemon/babel
-
-<!--
-**concinnate/concinnate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -25,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
